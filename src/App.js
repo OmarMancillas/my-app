@@ -147,8 +147,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Deck title="Table" flipped="0" path="table/" />
-        <Deck title="Hand" flipped="0" path="playerHand/" />
+        <Deck title="Table" flipped="2" path="table/" />
+        <Deck title="Hand" flipped="2" path="playerHand/" />
       </header>
     </div>
   );
